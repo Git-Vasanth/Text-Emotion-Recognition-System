@@ -37,3 +37,9 @@
 *  The model accurately identifies surprise and fear in specific sentences, demonstrating itsability to discern nuanced emotional states within the text.
 *  Some sentences present challenges for accurate emotion detection, particularly those withmixed or subtle emotional cues. This underscores the complexity inherent 
    in understandinghuman emotions.
+
+
+
+
+   ![Screenshot (5381)](https://github.com/Git-Vasanth/Text-Emotion-Recognition-System/assets/59464869/9ee18150-9a34-492b-9633-da2a4b8165e9)
+
