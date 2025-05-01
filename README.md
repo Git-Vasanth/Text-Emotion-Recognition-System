@@ -1,4 +1,4 @@
-# Text Emotion Recognition System
+# Emotion Sense Engine
 
 ### Project Workflow:
 
